@@ -25,7 +25,7 @@ The [create_examples.sh](create_examples.sh) script can populate the examples fo
 
     brain --search sql | fdp -Tpng > examples/sql.png
   
-![sql](sql/sql.png)
+![sql](examples/sql.png)
 
     brain --search docker | fdp -Tpng > examples/docker.png
 
@@ -33,7 +33,7 @@ The [create_examples.sh](create_examples.sh) script can populate the examples fo
 
     brain --search linux | fdp -Tpng > examples/linux.png
 
-![linux](examples/linux)
+![linux](examples/linux.png)
 
     brain --search package | fdp -Tpng > examples/package.png
 
@@ -59,7 +59,7 @@ The [create_examples.sh](create_examples.sh) script can populate the examples fo
 
 ![reload](examples/reload.png)
 
-    brain --all | fdp -Tpng > examples/brain_all.png
+    brain --all | fdp -Tpng > examples/all.png
 
 ![all](examples/all.png)
 
