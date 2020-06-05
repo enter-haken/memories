@@ -1,7 +1,10 @@
 ```
 id: 2aee8fa8-3c1d-11ea-a0f6-6be145ee7651
 title: coreutils
+links:
+  - abaa8394-3c19-11ea-b9ab-1fa8afe8f1a2
 ```
+
 [Linux Prodctivity Tools][1]
 
 linux base commands
