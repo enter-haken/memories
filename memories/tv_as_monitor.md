@@ -7,3 +7,4 @@ links:
 ```
 
 [Is it Okay to Use an HDTV as a Computer Monitor?](https://lifehacker.com/is-it-okay-to-use-an-hdtv-as-a-computer-monitor-5884040)
+
