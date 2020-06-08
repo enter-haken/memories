@@ -10,3 +10,5 @@ links:
  
 ```
 [The beauty of Unix pipelines](https://prithu.xyz/posts/unix-pipeline/)
+
+* combine basic linux packages
