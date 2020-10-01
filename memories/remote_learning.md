@@ -18,3 +18,8 @@ This is because the processed data is particulary worth protecting.
 
 There are solutions, that can be combined with each other.
 
+Pros:
+- you are the owner of the data
+
+Cons:
+- more work than consuming just SAAS product
