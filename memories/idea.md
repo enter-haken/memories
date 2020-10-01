@@ -1,4 +1,3 @@
-
 ```
 id: 038c08ea-edfb-4711-b80f-dc3fe885ea12
 title: idea
