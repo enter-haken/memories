@@ -24,7 +24,7 @@ every developer are shown.
 
 # idea 
 
-The initiator starts the session whith uploading the current project. 
+The initiator starts the session by uploading project, which should be shared. 
 During the initiating process, only files known to git 
 (tracked and untracked) are uploaded.
 With this aproach, the `.gitignore` file can be used 
@@ -39,7 +39,7 @@ As for the start, the participants agree to a branch to work on.
 Every file gets a check sum, so changes can be identified.
 Every developer, joining the session, will upload his content as well.
 
-# technology
+# possible technology usage
 
 * Elixir / Cowbowy in the backend.
 * Angular in the Frontend
@@ -52,15 +52,14 @@ Every developer, joining the session, will upload his content as well.
 
 ## cons
 
-* see no changes on every key stroke.
+* You see no changes on every key stroke.
+* Bigger projects can be a an issue due to higer memory usage. 
 
 # Problems to solve
 
 * Hold the entire project in memory for every user or use a database?
 
-# Links 
-
-* [Pair Programming simultaneously the same way that Live Share VSCode](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360001795120-Pair-Programming-simultaneously-the-same-way-that-Live-Share-VSCode)
+# Links * [Pair Programming simultaneously the same way that Live Share VSCode](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360001795120-Pair-Programming-simultaneously-the-same-way-that-Live-Share-VSCode)
 * [GitDuck](https://gitduck.com/)
 * [Foobits](https://floobits.com/)
 * [CodeTogether](https://www.codetogether.com/)
