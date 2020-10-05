@@ -24,7 +24,7 @@ every developer are shown.
 
 # idea 
 
-The initiator starts the session by uploading project, which should be shared. 
+The initiator starts the session by uploading the project, which should be shared. 
 During the initiating process, only files known to git 
 (tracked and untracked) are uploaded.
 With this aproach, the `.gitignore` file can be used 
