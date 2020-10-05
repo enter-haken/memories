@@ -59,7 +59,8 @@ Every developer, joining the session, will upload his content as well.
 
 * Hold the entire project in memory for every user or use a database?
 
-# Links * [Pair Programming simultaneously the same way that Live Share VSCode](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360001795120-Pair-Programming-simultaneously-the-same-way-that-Live-Share-VSCode)
+# Links 
+* [Pair Programming simultaneously the same way that Live Share VSCode](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360001795120-Pair-Programming-simultaneously-the-same-way-that-Live-Share-VSCode)
 * [GitDuck](https://gitduck.com/)
 * [Foobits](https://floobits.com/)
 * [CodeTogether](https://www.codetogether.com/)
