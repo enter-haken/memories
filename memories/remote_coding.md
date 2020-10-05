@@ -39,6 +39,8 @@ As for the start, the participants agree to a branch to work on.
 Every file gets a check sum, so changes can be identified.
 Every developer, joining the session, will upload his content as well.
 
+As for the start, the number of files should be limited.
+
 # possible technology usage
 
 * Elixir / Cowbowy in the backend.
