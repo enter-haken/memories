@@ -2,7 +2,7 @@
 id: d9fcb6a6-663c-4016-94ff-a76a716e1f2e
 title: Altassian Marketplace
 links:
-  - 5cf832a2-1d9e-4967-8898-2591e9543067
+  - 51a30e68-a9ee-4861-a332-6822ef8bf109
 ```
 
 The [Altassian Marketplace][1] is targeting companies which are using 
