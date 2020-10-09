@@ -7,3 +7,6 @@ links:
 
 Selling apps via Google Play
 
+* Free Apps
+* Paid apps
+* InApp payment
