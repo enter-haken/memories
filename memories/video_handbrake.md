@@ -7,3 +7,15 @@ links:
 ```
 
 Open-source, GPL-licensed, multiplatform, multithreaded video transcoder.
+
+```
++ - fdk       : Support for encoding AAC using media-libs/fdk-aac.
+- - gstreamer : Support for the streaming media framework from media-libs/gstreamer.
++ + gtk       : Install the GTK UI, ghb.
+- - libav-aac : Support for encoding AAC using libav's internal encoder.
+- - numa      : Adds support for x265's NUMA capabilities.
+- - nvenc     : Adds support for NVIDIA Encoder (NVENC) API for hardware accelerated encoding on NVIDIA
+cards.
+```
+
+

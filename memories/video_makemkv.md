@@ -7,3 +7,8 @@ links:
 ```
 
 Tool for ripping and streaming Blu-ray, HD-DVD and DVD discs.
+
+```
++ + gui      : Enable support for a graphical user interface
+- - libressl : Use dev-libs/libressl instead of dev-libs/openssl when applicable (see also the ssl
+```
