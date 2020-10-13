@@ -5,6 +5,7 @@ links:
   - 038c08ea-edfb-4711-b80f-dc3fe885ea12
   - 2808da50-948f-469f-8136-58d2ddd2b044
   - bedee2a5-61aa-4291-a4a3-85ddc4997706
+  - 1da72a7e-ff5f-4a5d-a316-ac5016017f77
 ```
 
 When I went to university 23 years ago, 
@@ -25,6 +26,7 @@ I startet brain with the intention of
 * connecting information with each other
   * maybe with machine learning / text mining.
 * rate the connection
+  * the memory get ranked by the count of links to it
 * find paths between information
 
 My target is:
@@ -33,3 +35,40 @@ My target is:
 * insert a thought/memory before setting a bookmark
 * share your brain with others
 * have power over its own data
+
+## features
+
+* client offline support?
+* create links from all open tabs
+* login with multiple accounts (home/work)
+  * see a merged version of your brain
+* feature / bug voting
+  * logged on users can submit own ideas
+  * logged on users can vote for ideas
+  * every one can see feature / bug list 
+* browser plugin to add new memories.
+* only fat client?
+
+From the business perspective:
+
+* put stuff which could increase the traffic or the storage behind a paywall
+* deep links for memories / share icons
+  * public traffic
+* save pdf for websites as well
+  * storage costs
+* save images / videos
+  * storage costs
+* autotagging 
+  * TensorFlow model for each user? (CPU time/storage)
+
+## selfhosted brain 
+
+* docker container
+* NAS support
+
+### brain as a service 
+
+* demo login?
+* video tour
+* free trial
+* monthly / annually plan

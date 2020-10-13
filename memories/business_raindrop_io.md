@@ -8,6 +8,6 @@ links:
 
 [raindrop.io](https://raindrop.io/)
 
-[vote for features](https://better.raindrop.io)
+[vote for features](https://better.raindrop.io/feature-requests)
 
 All in one bookmark manager
