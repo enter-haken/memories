@@ -3,6 +3,8 @@ id: 2c947175-b672-40c1-a4e7-ae8117af8937
 title: brain project
 links:
   - 038c08ea-edfb-4711-b80f-dc3fe885ea12
+  - 2808da50-948f-469f-8136-58d2ddd2b044
+  - bedee2a5-61aa-4291-a4a3-85ddc4997706
 ```
 
 When I went to university 23 years ago, 
