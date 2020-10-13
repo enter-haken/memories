@@ -2,7 +2,7 @@
 id: ca00ae60-cb3f-4dc7-8977-8e49c582d9a3
 title: readermode.io
 links:
-  - 9a9a2fb6-41b7-11ea-b332-7f561162cd24
+  - abb11492-3159-4d39-8c93-6476cbcb44b2
   - 2c947175-b672-40c1-a4e7-ae8117af8937
 ```
 
