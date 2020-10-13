@@ -9,3 +9,4 @@ Saas bookmark managers.
 
 Take a look, when it comes to the brain project.
 
+[every bookmark manager ever made](https://bookmarkos.com/every-bookmark-manager-ever-made)

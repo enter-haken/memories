@@ -48,6 +48,7 @@ My target is:
   * every one can see feature / bug list 
 * browser plugin to add new memories.
 * only fat client?
+* use dropbox / google drive as storage? 
 
 From the business perspective:
 
