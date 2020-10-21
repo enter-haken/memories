@@ -27,14 +27,17 @@ Of course you won't transfer a lot of data, but with this feature you can build 
 You have native json support, so you can build stored procedures, which are returning json objects back to the backend. 
 Less data has to be transfered over the wire, and operations which are nearby the data, can be done within the database.
 
-## Elixir
+[example database schema of redmine][2]
+
+# Elixir
 
 Elixir fits to these kinds of events. 
 The database driver support these kind of events on a message basis.
 
-## Angular
+# Angular
 
 Angular is still a good choice for business application. 
 You can work either with websockets or with server send events (SSE).
 
 [1]: https://www.atlassian.com/migration/journey-to-cloud
+[2]: https://www.redmine.org/projects/redmine/wiki/DatabaseModel
