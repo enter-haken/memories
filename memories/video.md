@@ -8,4 +8,3 @@ Topics regarding
 * BluRay
 * Dvd
 * extracting / ripping content
-
