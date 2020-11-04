@@ -3,6 +3,9 @@ id: 070e0f90-d129-4079-b74e-8e8e17e43982
 title: Project Management Tool
 links:
   - 9a9a2fb6-41b7-11ea-b332-7f561162cd24
+  - 0522c702-3b6f-11ea-80f9-a36b07e332d7
+  - a9054dd6-3b6f-11ea-9c73-93b4117331ff
+  - e94746f6-3b6f-11ea-a29f-336b2dc2999d
 ```
 
 When Atlassian [announced][1], that they will stop selling on premise software, I thought about the impact.
