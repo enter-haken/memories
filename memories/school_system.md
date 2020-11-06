@@ -41,9 +41,22 @@ students with additional educational opportunities.
 | classes        | 116408  |
 | teachers       | 124652  |
 
+# how to start?
+
+For a first start you can set up a GitLab like instance to write down some `stories`.
+Having these stories, create `tasks` for a development team.
+
+A team can look like (eg. for a scrum process)
+
+* a `scrum master`
+* a `product owner`
+* two `frontend guys`
+* two `backend guys`
+* one **dedicated** `devops/dba` guy
+
 ## some thoughts
 
-* These numbers are nearly constant over years, so you can build a system with predictable work load.
+* These numbers are nearly constant over years, so you can build a system with a predictable work load.
 * You have an update window on weekends, because there are no courses.
 
 [1]: https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Schulen/Tabellen/allgemeinbildende-beruflicheschulen-schularten.html
