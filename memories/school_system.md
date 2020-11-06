@@ -26,7 +26,7 @@ students with additional educational opportunities.
 * [Statistisches Bundesamt - Lehrkräfte][2]
 * [Statistisches Bundesamt - Schüler][3]
 
-## public schools
+## public schools 2019/2020
 
 | Kind           | count        |
 | -------------- | -----------: |
@@ -35,7 +35,7 @@ students with additional educational opportunities.
 | teachers       | `693.753`    |
 | students       | `8.326.884`  |
 
-## other schools
+## other schools 2019/2020
 
 | Kind           | count        |
 | -------------- | -----------: |
