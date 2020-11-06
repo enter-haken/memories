@@ -4,6 +4,7 @@ title: German school system
 links:
   - bc872808-0e5b-4554-9c41-5b2883f8006b
 ```
+# German school system
 
 From the perspective of the Gerrman school system.
 
@@ -19,3 +20,31 @@ assistance from the people.
 I could imagine an independent organization that would provide all 
 students with additional educational opportunities.
 
+# numbers
+
+[Statistisches Bundesamt - Schularten][1]
+[Statistisches Bundesamt - Lehrkräfte][2]
+
+## public schools
+
+| Kind           | count   |
+| -------------- | ------: |
+| schools        | 32332   |
+| classes        | 349035  |
+| teachers       | 693753  |
+
+## other schools
+
+| Kind           | count   |
+| -------------- | ------: |
+| schools        | 8621    |
+| classes        | 116408  |
+| teachers       | 124652  |
+
+## some thoughts
+
+* These numbers are nearly constant over years, so you can build a system with predictable work load.
+* You have an update window on weekends, because there are no courses.
+
+[1]: https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Schulen/Tabellen/allgemeinbildende-beruflicheschulen-schularten.html
+[2]: https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Schulen/Tabellen/allgemeinbildende-beruflicheschulen-lehrkraefte.html
