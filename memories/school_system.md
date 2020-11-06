@@ -22,26 +22,27 @@ students with additional educational opportunities.
 
 # numbers
 
-[Statistisches Bundesamt - Schularten][1]
-[Statistisches Bundesamt - Lehrkräfte][2]
+* [Statistisches Bundesamt - Schularten][1]
+* [Statistisches Bundesamt - Lehrkräfte][2]
+* [Statistisches Bundesamt - Schüler][3]
 
 ## public schools
 
-| Kind           | count    |
-| -------------- | -------: |
-| schools        | 32332    |
-| classes        | 349035   |
-| teachers       | 693753   |
-| students       | 8326884  |
+| Kind           | count        |
+| -------------- | -----------: |
+| schools        | `32.332`     |
+| classes        | `349.035`    |
+| teachers       | `693.753`    |
+| students       | `8.326.884`  |
 
 ## other schools
 
-| Kind           | count    |
-| -------------- | -------: |
-| schools        | 8621     |
-| classes        | 116408   |
-| teachers       | 124652   |
-| students       | 1410507  |
+| Kind           | count        |
+| -------------- | -----------: |
+| schools        | `8.621`      |
+| classes        | `116.408`    |
+| teachers       | `124.652`    |
+| students       | `1.410.507`  |
 
 # how to start?
 
@@ -63,3 +64,4 @@ A team can look like (eg. for a scrum process)
 
 [1]: https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Schulen/Tabellen/allgemeinbildende-beruflicheschulen-schularten.html
 [2]: https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Schulen/Tabellen/allgemeinbildende-beruflicheschulen-lehrkraefte.html
+[3]: https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Schulen/Tabellen/allgemeinbildende-beruflicheschulen-schularten-schueler.html
