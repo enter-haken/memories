@@ -27,19 +27,21 @@ students with additional educational opportunities.
 
 ## public schools
 
-| Kind           | count   |
-| -------------- | ------: |
-| schools        | 32332   |
-| classes        | 349035  |
-| teachers       | 693753  |
+| Kind           | count    |
+| -------------- | -------: |
+| schools        | 32332    |
+| classes        | 349035   |
+| teachers       | 693753   |
+| students       | 8326884  |
 
 ## other schools
 
-| Kind           | count   |
-| -------------- | ------: |
-| schools        | 8621    |
-| classes        | 116408  |
-| teachers       | 124652  |
+| Kind           | count    |
+| -------------- | -------: |
+| schools        | 8621     |
+| classes        | 116408   |
+| teachers       | 124652   |
+| students       | 1410507  |
 
 # how to start?
 
