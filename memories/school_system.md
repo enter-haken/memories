@@ -44,6 +44,8 @@ students with additional educational opportunities.
 | teachers       | `124.652`    |
 | students       | `1.410.507`  |
 
+In summary there are `10.555.796` **users** and `40.953` **tenants**.
+
 # how to start?
 
 For a first start you can set up a GitLab like instance to write down some `stories`.
