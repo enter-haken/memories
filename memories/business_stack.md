@@ -34,6 +34,7 @@ What kind of services / products are used?
 * billing integrations 
 * LDAP directories (active directory)
 * office suites
+* [CalDAV][3]
 
 # question
 
@@ -41,3 +42,4 @@ What is needed to have everything back in your own hands?
 
 [1]: https://www.businessinsider.com/google-users-locked-out-after-years-2020-10 
 [2]: https://www.dw.com/en/nord-stream-2-germany-unhappy-with-new-us-sanctions/a-53805296
+[3]: https://radicale.org/3.0.html
