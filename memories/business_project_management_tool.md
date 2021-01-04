@@ -12,7 +12,7 @@ When Atlassian [announced][1], that they will stop selling on premise software, 
 A lot of companies are using jira and confluence, 
 and there are a lot of alternatives out there.
 
-But what are the core features of
+But what are the core features of the Atlassian stack?
 
 * an issue tracker
 * an agile tool
@@ -20,7 +20,23 @@ But what are the core features of
 
 I thought about starting from scratch, to try out some ideas.
 
-# Postgres
+# Features
+
+* LDAP integration
+* Issue Tracker
+* Git Integration
+* Sprint planing
+* Version planning
+* Chat / Voice / Video (recording / streaming) / Messages
+* Wiki
+* Project Management
+* Calendar
+* Container Registry
+* Build Server
+
+# appropriate technologies
+
+## Postgres
 
 Postgres got a lot of features over years, but some of them are worthy enought to take a look at.
 
@@ -32,15 +48,18 @@ Less data has to be transfered over the wire, and operations which are nearby th
 
 [example database schema of redmine][2]
 
-# Elixir
+## Elixir
 
 Elixir fits to these kinds of events. 
 The database driver support these kind of events on a message basis.
 
-# Angular
+### Phoenix LiveView
 
-Angular is still a good choice for business application. 
-You can work either with websockets or with server send events (SSE).
+LiveView only updates part of the HTML page, so it is possible to write SPAs without JavaScript.
+Therefore it is practical to use CSS only frameworks like [Bulma][3] or [Tailwind CSS][4].
+
 
 [1]: https://www.atlassian.com/migration/journey-to-cloud
 [2]: https://www.redmine.org/projects/redmine/wiki/DatabaseModel
+[3]: https://bulma.io/
+[4]: https://tailwindcss.com/
