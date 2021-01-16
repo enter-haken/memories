@@ -18,8 +18,12 @@ This is because the processed data is particulary worth protecting.
 
 There are solutions, that can be combined with each other.
 
+[Was den Lernraum Berlin in die Knie zwang][1]
+
 Pros:
 - you are the owner of the data
 
 Cons:
 - more work than consuming just SAAS product
+
+[1]: https://www.golem.de/news/moodle-was-den-lernraum-berlin-in-die-knie-zwang-2101-153427.html
