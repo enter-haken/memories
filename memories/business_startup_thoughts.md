@@ -5,4 +5,10 @@ links:
   - 45891f14-7af0-488b-baee-ea1a89e69260
 ```
 
-Thougts on creating a startup.
+# Thougts on creating a startup.
+
+* [Don't offer a Free Plan][1]
+* [How to Kill a Unicorn][2]
+
+[1]: https://nofreeplan.com/
+[2]: https://www.chrisfrantz.com/how-to-kill-a-unicorn/
