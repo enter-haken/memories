@@ -86,7 +86,12 @@ Therefore it is practical to use CSS only frameworks like [Bulma][3] or [Tailwin
     * If the system acts as expected, `old` can be gently shut down.
     * From now on only `new` is the only active system.
 
+# Further reading
+
+* [GitGud, GitHub clone entirely written in Elixir][5]
+
 [1]: https://www.atlassian.com/migration/journey-to-cloud
 [2]: https://www.redmine.org/projects/redmine/wiki/DatabaseModel
 [3]: https://bulma.io/
 [4]: https://tailwindcss.com/
+[5]: https://elixirforum.com/t/gitgud-github-clone-entirely-written-in-elixir/12920
