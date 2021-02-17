@@ -66,10 +66,20 @@ Less data has to be transfered over the wire, and operations which are nearby th
 Elixir fits to these kinds of events. 
 The database driver support these kind of events on a message basis.
 
-### Phoenix LiveView
+## Phoenix LiveView
 
 LiveView only updates part of the HTML page, so it is possible to write SPAs without JavaScript.
 Therefore it is practical to use CSS only frameworks like [Bulma][3] or [Tailwind CSS][4].
+
+## Godot
+
+When you consider writing a `fat client` rather building a `spa`, [godot][6] is worth a look.
+The primary audience of `godot` are game developers, but if you want to build a cross plattform ui,
+using game engines can fit the needs.
+
+See also: [Is Making Advanced GUI Applications with Godot the Future?][7]
+
+
 
 # Operational considerations
 
@@ -95,3 +105,5 @@ Therefore it is practical to use CSS only frameworks like [Bulma][3] or [Tailwin
 [3]: https://bulma.io/
 [4]: https://tailwindcss.com/
 [5]: https://elixirforum.com/t/gitgud-github-clone-entirely-written-in-elixir/12920
+[6]: https://godotengine.org/
+[7]: https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b
