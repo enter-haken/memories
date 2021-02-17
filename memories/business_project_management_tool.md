@@ -77,10 +77,14 @@ When you consider writing a `fat client` rather building a `spa`, [godot][6] is 
 The primary audience of `godot` are game developers, but if you want to build a cross plattform ui,
 using game engines can fit the needs.
 
-See also: [Is Making Advanced GUI Applications with Godot the Future?][7]
+> This way of utilizing a weird thing seemingly unrelated due to economics of scale is not new. E.g. Tesla was built on the idea that instead of building a car using custom car batteries, they opted for the seemingly insane idea of using 7000 laptop batteries to power their car.
 
+> I wrote this story thinking Godot was the answer to the challenges people who make large complex GUIs have. But perhaps this is actually a solution to everbody. Godot Engine adds an overhead of 20–30 MB has to a solution as far as I know. For quite moderately size applications that may be acceptable. It may seem much relative to my day-to-day editor TextMate which comes in at 30 MB. However compared to the Atom editor which comes in at a hefty 500-600 MB it is a steal.
 
+> So why should be jump to web technologies to get cross platform GUI applications? We got a tool, Godot, that runs on all major platforms which uses minimal resources and which anyone can get started using quickly.
 
+[Is Making Advanced GUI Applications with Godot the Future?][7]
+ 
 # Operational considerations
 
 * How to handle deprecations?
