@@ -8,6 +8,7 @@ links:
 
 # WSL
 
+* Activate WSL according to [Microsoft][3]
 * Install `Ubuntu 18.04 LTS`
 * Checkout [dotfiles][1]
 * Setup `ssh`
@@ -24,6 +25,53 @@ links:
 * Install `neovim`
   * checkout [neovim config][2]
 
+## Terminal
+
+Add nord palete to terminal config
+
+```
+{
+      "name": "nord",
+      "black": "#3b4252",
+      "red": "#bf616a",
+      "green": "#a3be8c",
+      "yellow": "#ebcb8b",
+      "blue": "#81a1c1",
+      "purple": "#b48ead",
+      "cyan": "#88c0d0",
+      "white": "#e5e9f0",
+      "brightBlack": "#4c566a",
+      "brightRed": "#bf616a",
+      "brightGreen": "#a3be8c",
+      "brightYellow": "#ebcb8b",
+      "brightBlue": "#81a1c1",
+      "brightPurple": "#b48ead",
+      "brightCyan": "#8fbcbb",
+      "brightWhite": "#eceff4",
+      "background": "#2e3440",
+      "foreground": "#d8dee9"
+},
+```
+
+Update Ubuntu config
+
+```
+{
+    "guid": "{07b52e3e-de2c-5db4-bd2d-ba144ed6c273}",
+    "colorScheme": "nord",
+    "hidden": false,
+    "name": "Ubuntu-20.04",
+    "source": "Windows.Terminal.Wsl",
+    "commandLine": "wsl ~"
+}
+```
+
+Setup default profile
+
+```
+"defaultProfile": "{07b52e3e-de2c-5db4-bd2d-ba144ed6c273}"
+```
 
 [1]: https://github.com/enter-haken/dotfiles
 [2]: https://github.com/enter-haken/neovim-config
+[3]: https://docs.microsoft.com/en-us/windows/wsl/install-win10
