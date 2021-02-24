@@ -4,3 +4,9 @@ title: programming
 ```
 
 # programming
+
+# further reading
+
+[Modules, monoliths, and microservices][1]
+
+[1]: https://tailscale.com/blog/modules-monoliths-and-microservices/
