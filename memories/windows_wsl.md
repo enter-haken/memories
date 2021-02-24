@@ -21,6 +21,7 @@ links:
 * Install `python`
   * `apt-get install python3-pip`
 * install `tmux`
+* install `ranger`
 * Install `asdf`
 * Install `neovim`
   * checkout [neovim config][2]
