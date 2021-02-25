@@ -23,6 +23,7 @@ links:
 * install `tmux`
 * install `ranger`
 * Install `asdf`
+* Install `tree`
 * Install `neovim`
   * checkout [neovim config][2]
 
