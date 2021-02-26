@@ -10,3 +10,9 @@ links:
 ```
 
 Operating system
+
+# further reading
+
+[10 Ways to Generate a Random Password from the Linux Command Line][1]
+
+[1]: https://www.howtogeek.com/howto/30184/10-ways-to-generate-a-random-password-from-the-command-line/
