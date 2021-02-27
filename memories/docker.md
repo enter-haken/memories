@@ -10,7 +10,9 @@ Container based virtualization technology
 * [docker-dashboard][1]
 * [Docker multi-stage build and environment variables][2]
 * [Docker ARG, ENV and .env - a Complete Guide][3]
+* [Access Private Repositories from Your Dockerfile Without Leaving Behind Your SSH Keys][4]
 
 [1]: https://github.com/pipiliang/docker-dashboard
 [2]: https://dev.to/migsarnavarro/docker-multi-stage-build-and-environment-variables-4lp2
 [3]: https://vsupalov.com/docker-arg-env-variable-guide/
+[4]: https://vsupalov.com/build-docker-image-clone-private-repo-ssh-key/
