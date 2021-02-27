@@ -4,3 +4,9 @@ title: docker
 ```
 
 Container based virtualization technology
+
+# further reading
+
+[docker-dashboard][1]
+
+[1]: https://github.com/pipiliang/docker-dashboard
