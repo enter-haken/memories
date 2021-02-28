@@ -103,6 +103,7 @@ using game engines can fit the needs.
 # Further reading
 
 * [GitGud, GitHub clone entirely written in Elixir][5]
+* [Open-Source-Angebote für Videokonferenzen][8]
 
 [1]: https://www.atlassian.com/migration/journey-to-cloud
 [2]: https://www.redmine.org/projects/redmine/wiki/DatabaseModel
@@ -111,3 +112,4 @@ using game engines can fit the needs.
 [5]: https://elixirforum.com/t/gitgud-github-clone-entirely-written-in-elixir/12920
 [6]: https://godotengine.org/
 [7]: https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b
+[8]: https://www.deutschlandfunk.de/jitsi-und-big-blue-button-open-source-angebote-fuer.684.de.html?dram:article_id=476375
