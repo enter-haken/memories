@@ -106,6 +106,7 @@ using game engines can fit the needs.
 * [Open-Source-Angebote für Videokonferenzen][8]
 * [Wolkenkukucksheim: Cloud-Anwender vernachlässigen die Sicherheit ihrer Endgeräte][9]
 * [Atlassian übernimmt Chartio für Datenanalyse][10]
+* [11 Best JIRA Alternatives In 2021 (Research Done For You)][11]
 
 [1]: https://www.atlassian.com/migration/journey-to-cloud
 [2]: https://www.redmine.org/projects/redmine/wiki/DatabaseModel
@@ -117,3 +118,4 @@ using game engines can fit the needs.
 [8]: https://www.deutschlandfunk.de/jitsi-und-big-blue-button-open-source-angebote-fuer.684.de.html?dram:article_id=476375
 [9]: https://www.deutschlandfunk.de/it-sicherheitsmesse-it-sa-cloud-anwender-vernachlaessigen.684.de.html?dram:article_id=460868
 [10]: https://www.heise.de/news/Atlassian-uebernimmt-Chartio-fuer-Datenanalyse-5067351.html
+[11]: https://www.softwaretestinghelp.com/jira-alternatives/
