@@ -109,6 +109,7 @@ using game engines can fit the needs.
 * [11 Best JIRA Alternatives In 2021 (Research Done For You)][11]
 * [Top 7 Most Popular JIRA Plugins (Best Jira Add-Ons In 2021)][12]
   Good estimations for people, which needs more than the jira feature deck
+* [Godot User Interface Tutorials][13]
 
 [1]: https://www.atlassian.com/migration/journey-to-cloud
 [2]: https://www.redmine.org/projects/redmine/wiki/DatabaseModel
@@ -122,3 +123,4 @@ using game engines can fit the needs.
 [10]: https://www.heise.de/news/Atlassian-uebernimmt-Chartio-fuer-Datenanalyse-5067351.html
 [11]: https://www.softwaretestinghelp.com/jira-alternatives/
 [12]: https://www.softwaretestinghelp.com/jira-plugins-addons/
+[13]: https://www.youtube.com/playlist?list=PLhqJJNjsQ7KGXNbfsUHJbb5-s2Tujtjt4
