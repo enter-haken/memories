@@ -13,3 +13,9 @@ links:
 function calc { echo "$1" | bc; }
 export -f calc
 ```
+
+# testing
+
+* simple [unit testing framework][1] for bash.
+
+[1]: https://github.com/pgrange/bash_unit
