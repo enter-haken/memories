@@ -100,6 +100,12 @@ using game engines can fit the needs.
     * If the system acts as expected, `old` can be gently shut down.
     * From now on only `new` is the only active system.
 
+# pricing
+
+> Workspace soll in den Bezahlmodellen an die jeweiligen Unternehmen und ihre Bedürfnisse angepasst werden. Bei einem "Business Starter" geht es mit 6 US-Dollar pro Nutzer los, "Business Plus" liegt bei 18 US-Dollar, für größere Konzerne muss einzeln verhandelt werden. Bestehende G-Suite-Verträge laufen wie gewohnt weiter, es sei denn, der Kunde entscheidet sich für den Wechsel zu Workspace.
+
+[Google Workspace: Verknüpfung der Dienste samt neuem Design][14]
+
 # Further reading
 
 * [GitGud, GitHub clone entirely written in Elixir][5]
@@ -124,3 +130,4 @@ using game engines can fit the needs.
 [11]: https://www.softwaretestinghelp.com/jira-alternatives/
 [12]: https://www.softwaretestinghelp.com/jira-plugins-addons/
 [13]: https://www.youtube.com/playlist?list=PLhqJJNjsQ7KGXNbfsUHJbb5-s2Tujtjt4
+[14]: https://www.heise.de/news/Google-Workspace-Verknuepfung-der-Dienste-samt-neuem-Design-4920957.html
