@@ -12,7 +12,10 @@ links:
 * [Nimble Parsec][1]
 * [Parser Combinators in Elixir][2]
 * [Elixir - Parsers and Combinators (Youtube)][3]
+* [abnf parsec][4]
+  * based on nimble parsec
 
 [1]: https://github.com/dashbitco/nimble_parsec
 [2]: https://blog.drewolson.org/parser-combinators-in-elixir
 [3]: https://www.youtube.com/watch?v=JeCG1ZGeU_0
+[4]: https://github.com/princemaple/abnf_parsec
