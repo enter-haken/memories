@@ -5,8 +5,12 @@ links:
   - b902bdae-e3bc-4b10-96e6-76765bf42263
 ```
 
-[XML 1.1 ebnf][1]
-
 # XML Parser
 
+# Further reading
+
+* [XML 1.1 ebnf][1]
+* [Augmented BNF for Syntax Specifications: ABNF][2]
+
 [1]: https://www.liquid-technologies.com/XML/EBNF1.1.aspx
+[2]: https://tools.ietf.org/html/rfc5234
