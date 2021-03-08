@@ -5,5 +5,8 @@ links:
   - b902bdae-e3bc-4b10-96e6-76765bf42263
 ```
 
+[XML 1.1 ebnf][1]
+
 # XML Parser
 
+[1]: https://www.liquid-technologies.com/XML/EBNF1.1.aspx
