@@ -11,6 +11,8 @@ links:
 
 * [XML 1.1 ebnf][1]
 * [Augmented BNF for Syntax Specifications: ABNF][2]
+* [EBNF for XML 1.0][3]
 
 [1]: https://www.liquid-technologies.com/XML/EBNF1.1.aspx
 [2]: https://tools.ietf.org/html/rfc5234
+[3]: http://www.jelks.nu/XML/xmlebnf.html 
