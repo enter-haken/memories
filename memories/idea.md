@@ -4,5 +4,3 @@ title: idea
 ```
 
 This is my entry point for ideas, which are comming into my mind.
-
-

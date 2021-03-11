@@ -9,6 +9,10 @@ links:
 
 ## further reading
 
-[pbf parser][1]
+* [pbf parser][1]
+* [protobuf-elixir][3]
+* [geofabrik download germany][2]
 
 [1]: https://github.com/mpraski/pbf-parser
+[2]: https://download.geofabrik.de/europe/germany.html
+[3]: https://github.com/elixir-protobuf/protobuf
