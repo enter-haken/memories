@@ -7,4 +7,12 @@ links:
   - 1d56d666-3b5a-11ea-9c69-33e372d06765
 ```
 
+# vim
+
 A file editor
+
+# further reading
+
+* [vim pedal][1]
+
+[1]: https://github.com/alevchuk/vim-clutch
