@@ -116,6 +116,15 @@ using game engines can fit the needs.
 * [Top 7 Most Popular JIRA Plugins (Best Jira Add-Ons In 2021)][12]
   Good estimations for people, which needs more than the jira feature deck
 * [Godot User Interface Tutorials][13]
+* [RethinkDB: why we failed][15]
+
+> If you do set out to build a developer tools company, tread carefully. The market is filled with good alternatives. User expectations are high and prices are low. Think deeply about the value you’re offering to the customer. Remember – wanting the world to be a certain way doesn’t make it so.
+
+> Pick a large market but build for specific users.
+
+> Learn to recognize the talents you’re missing, then work like hell to get them on your team.
+
+> Read The Economist religiously. It will make you better faster.
 
 [1]: https://www.atlassian.com/migration/journey-to-cloud
 [2]: https://www.redmine.org/projects/redmine/wiki/DatabaseModel
@@ -131,3 +140,4 @@ using game engines can fit the needs.
 [12]: https://www.softwaretestinghelp.com/jira-plugins-addons/
 [13]: https://www.youtube.com/playlist?list=PLhqJJNjsQ7KGXNbfsUHJbb5-s2Tujtjt4
 [14]: https://www.heise.de/news/Google-Workspace-Verknuepfung-der-Dienste-samt-neuem-Design-4920957.html
+[15]: https://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
