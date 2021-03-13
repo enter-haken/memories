@@ -8,8 +8,7 @@ links:
 # github sponsors
 
 * build something
-  * companies will use in their product
-  * open source only
+  * as a library, which companies can use in their product
 * when you have enought attention
   * introduce tier with offering for a logo on all pages
 

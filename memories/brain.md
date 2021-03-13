@@ -74,3 +74,11 @@ From the business perspective:
 * video tour
 * free trial
 * monthly / annually plan
+
+# further reading
+
+* [d3 - mobile patent suits][1]
+* [d3 - force layout][2]
+
+[1]: https://observablehq.com/@d3/mobile-patent-suits
+[2]: https://observablehq.com/@d3/sticky-force-layout?collection=@d3/d3-force
