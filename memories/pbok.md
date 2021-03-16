@@ -26,7 +26,7 @@ But if you were able to control your own data, would it be an even better altern
 When you think of your family and friends (not facebook friends), how big is your count?
 50? 100? 150?
 
-Not even close to [2,000,000,000] people, or?
+Not even close to [2,000,000,000][1] people, or?
 
 So, what do you want? 
 You want to talk to your `family` and `friends`, 
