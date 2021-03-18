@@ -9,3 +9,12 @@ links:
   - d2a88f84-465c-11ea-ad6f-532e43a7aa79
   - d5fc44a6-47f5-11ea-9d9c-c3eb61f867a4
 ```
+
+# .NET Framework
+
+# further reading
+
+* [dotnet performance][1]
+
+[1]: https://github.com/adamsitnik/awesome-dot-net-performance
+
