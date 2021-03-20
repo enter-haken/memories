@@ -11,8 +11,12 @@ links:
 
 A file editor
 
+
+
 # further reading
 
 * [vim pedal][1]
+* [spacevim][2]
 
 [1]: https://github.com/alevchuk/vim-clutch
+[2]: https://spacevim.org/ 
