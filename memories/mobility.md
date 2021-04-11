@@ -8,3 +8,7 @@ title: e-mobility
 * How to get from `A` to `B`?
   * small scale `10km` for `each day`
   * medium scale `150km` for `one direction`
+
+* [Place electric motor in a bicicle trailer][1]
+
+[1]: https://www.sueddeutsche.de/auto/neue-technik-wenn-der-anhaenger-das-fahrrad-schiebt-1.3957631

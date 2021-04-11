@@ -18,6 +18,7 @@ links:
 * [Creating Dashboard Stats Component with TailwindCSS][7]
 * [Componentizing a Dashboard with Tailwind CSS][8]
 * [Building Intercom's Inbox UI with Tailwind CSS][9]
+* [just in time compile][10]
 
 [1]: https://fullstackphoenix.com/tutorials/get-started-with-tailwind-in-phoenix
 [2]: https://www.youtube.com/watch?v=r6mykOig_Bs
@@ -28,3 +29,4 @@ links:
 [7]: https://www.youtube.com/watch?v=bM4ToYFpUZM
 [8]: https://www.youtube.com/watch?v=wilxJLjuBp4
 [9]: https://www.youtube.com/watch?v=cg1qbkG0KRI
+[10]: https://tailwindcss.com/docs/just-in-time-mode
