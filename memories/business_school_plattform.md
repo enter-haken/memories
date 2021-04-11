@@ -7,6 +7,8 @@ links:
   - 06281917-ea57-4975-bff0-1118f3050c50
 ```
 
+# school plattform
+
 What solutions are out there?
 
 * BBB
@@ -19,6 +21,7 @@ Questions?
 * How to protect the data?
 
 Idea:
+
 * create a plattform for
   * Pupils
   * Parents
@@ -27,3 +30,8 @@ Idea:
 
 The administration should be as simple as possible.
 
+# further reading
+
+[Schule digital: Wie ein Lock-In an Schulen der Gesellschaft schadet][1]
+
+[1]: https://www.heise.de/hintergrund/Schule-digital-Wie-der-Lock-In-Effekt-unsere-Schulen-beschraenkt-6006927.html
