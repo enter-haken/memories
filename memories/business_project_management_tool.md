@@ -100,6 +100,29 @@ using game engines can fit the needs.
     * If the system acts as expected, `old` can be gently shut down.
     * From now on only `new` is the only active system.
 
+# Feature ideas
+
+## daily
+
+* screen sharing is not needed
+* a user takes the lead, and the screen position is transfered to all participants.
+* When a user is speaking, the avatar on every ticket is blinking.
+* Active speaking user is shown
+* lead user video is shown
+
+## share multiple sources
+
+* if needed you can share n sources like
+  * video
+  * screen 1,2,3...
+* think about having a presentation (e.g. for embedded sw)
+  * one camera shows your face
+  * the second may be a device you are working on
+  * the third camera an other device with blinking leds.
+  * ...
+* How to compose these different sources?
+  * Should the consumer do this?
+
 # pricing
 
 > Workspace soll in den Bezahlmodellen an die jeweiligen Unternehmen und ihre Bedürfnisse angepasst werden. Bei einem "Business Starter" geht es mit 6 US-Dollar pro Nutzer los, "Business Plus" liegt bei 18 US-Dollar, für größere Konzerne muss einzeln verhandelt werden. Bestehende G-Suite-Verträge laufen wie gewohnt weiter, es sei denn, der Kunde entscheidet sich für den Wechsel zu Workspace.

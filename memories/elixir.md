@@ -9,4 +9,19 @@ tags:
   - elixir
 ```
 
+# elixir
+
 BEAM based functional language.
+
+# ideas
+
+* having mnesia as redis/memcache replacement in front of a PostgreSQL database
+  * writes to Postgres
+  * notify for entity change
+  * backend pulls new entity into mnesia
+  * automatically distribution to all nodes
+  * fast serve time
+  * suitable for data with a lot of cold storage
+  * further read: [Why isn’t mnesia the most preferred database for use in Elixir/Phoenix?][1]
+
+[1]: https://elixirforum.com/t/why-isn-t-mnesia-the-most-preferred-database-for-use-in-elixir-phoenix/16811/20
