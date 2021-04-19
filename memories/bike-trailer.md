@@ -14,3 +14,13 @@ links:
 * solar cells to charge the batteries
 * two independent axes
 * hub motor
+
+# what is needed?
+
+* 3d printer for akku case / parts?
+
+# Further reading
+
+* [eGO Elektrokart][1]
+
+[1]: https://bereadyto.de/elektromobilitat/ego-elektrokart/
