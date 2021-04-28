@@ -47,6 +47,16 @@ People, who are not sitting in the same room are working seamlessly together.
 There is no difference to working on site anymore.
 Sentences like `Can you hear me?` or `Can you see my screen?` belongs to the past.
 
+## Matrix
+
+When it comes to collaboration, [matrix][20] can be used for secure, decentrialized communication.
+You can use [element][21] as a client, or integrate a client into the whole solution.
+During the covid pandemic the university of Innsbruck [introduced matrix][19] as a first class citizen regarding realtime communication.
+
+## GitLab
+
+GitLab can be used for all git related activities. 
+
 # appropriate technologies
 
 ## Postgres
@@ -170,3 +180,6 @@ using game engines can fit the needs.
 [16]: https://opensource.googleblog.com/2021/04/lyra-enabling-voice-calls-for-next-billion-users.html
 [17]: https://github.com/sepfy/pear
 [18]: https://swimlanes.io/
+[19]: https://www.heise.de/news/Zusammenarbeit-MS-Teams-als-Lockangebot-in-eine-geschlossene-Microsoft-Umgebung-6030514.html
+[20]: https://matrix.org/
+[21]: https://github.com/vector-im/element-web
