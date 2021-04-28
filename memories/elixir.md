@@ -24,4 +24,9 @@ BEAM based functional language.
   * suitable for data with a lot of cold storage
   * further read: [Why isn’t mnesia the most preferred database for use in Elixir/Phoenix?][1]
 
+# further reading
+
+* [Learning Elixir's GenServer with a real-world example][2]
+
 [1]: https://elixirforum.com/t/why-isn-t-mnesia-the-most-preferred-database-for-use-in-elixir-phoenix/16811/20
+[2]: https://papercups.io/blog/genserver
