@@ -30,11 +30,14 @@ I thought about starting from scratch, to try out some ideas.
 * Sprint planing
 * Version planning
 * Chat / Voice / Video (recording / streaming) / Messages
-* Wiki
 * Project Management
 * Calendar
 * Container Registry
 * Build Server
+* Plugins
+  * [PlantUML][22]
+  * [GraphViz][23]
+  * [DrawIO][24]
 
 # Thoughts
 
@@ -183,3 +186,6 @@ using game engines can fit the needs.
 [19]: https://www.heise.de/news/Zusammenarbeit-MS-Teams-als-Lockangebot-in-eine-geschlossene-Microsoft-Umgebung-6030514.html
 [20]: https://matrix.org/
 [21]: https://github.com/vector-im/element-web
+[22]: https://plantuml.com/
+[23]: https://graphviz.org/
+[24]: https://app.diagrams.net/
