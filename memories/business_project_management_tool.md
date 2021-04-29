@@ -26,18 +26,35 @@ I thought about starting from scratch, to try out some ideas.
 
 * LDAP integration
 * Issue Tracker
+* Time tracking
 * Git Integration
-* Sprint planing
-* Version planning
-* Chat / Voice / Video (recording / streaming) / Messages
+* Agile
+  * Grooming
+  * Sprint Planing
+  * Retro
+  * Version planning 
+* Communication
+  * Chat
+  * Voice
+  * Video (multiple sources at the same time)
+    * WebCam
+    * ScreenSharing
+  * Messaging
+  * Group Chats
+  * Recorded sessions
 * Project Management
 * Calendar
 * Container Registry
-* Build Server
+* Build Server (CI/CD)
+* Test Management
+* Workflows
 * Plugins
   * [PlantUML][22]
   * [GraphViz][23]
   * [DrawIO][24]
+  * Roadmap Tool
+  * [GitLab][25]
+  * [Jenkins][26]
 
 # Thoughts
 
@@ -189,3 +206,5 @@ using game engines can fit the needs.
 [22]: https://plantuml.com/
 [23]: https://graphviz.org/
 [24]: https://app.diagrams.net/
+[25]: https://about.gitlab.com/
+[26]: https://www.jenkins.io/
