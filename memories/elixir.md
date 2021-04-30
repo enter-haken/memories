@@ -27,6 +27,8 @@ BEAM based functional language.
 # further reading
 
 * [Learning Elixir's GenServer with a real-world example][2]
+* [Building a Distributed Turn-Based Game System in Elixir][3]
 
 [1]: https://elixirforum.com/t/why-isn-t-mnesia-the-most-preferred-database-for-use-in-elixir-phoenix/16811/20
 [2]: https://papercups.io/blog/genserver
+[3]: https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/
