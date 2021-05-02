@@ -8,7 +8,7 @@ links:
   - e94746f6-3b6f-11ea-a29f-336b2dc2999d
 ```
 
-# PMT
+# tog 
 
 When Atlassian [announced][1], that they will stop selling on premise software, I thought about the impact.
 A lot of companies are using jira and confluence, 
@@ -152,6 +152,29 @@ using game engines can fit the needs.
   * ...
 * How to compose these different sources?
   * Should the consumer do this?
+
+## scenario
+
+* a company has an instance of `tog` up and running
+* the backlog is groomed and sorted
+* the backlog is visible in public
+
+### freelance developers
+
+* every story and bug has its price tag 
+* a freelancer can commit on an epic / story / bug
+  * others can see, that someone can work on a topic
+  * multiple people can work on a topic
+* an epic has in summary the price tag of its stories and bugs
+* freelancers can apply on epics, stories or bugs
+* get paid, when the accpetence criteria are met
+
+### vote
+
+* every one can vote up and down
+* paying customers have an higher vote
+* show roadmap with several releases
+  * every n epics / stories / bugs form a release
 
 # pricing
 
