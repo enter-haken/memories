@@ -18,4 +18,9 @@ export -f calc
 
 * simple [unit testing framework][1] for bash.
 
+# further reading
+
+* [Linux Terminal Tools][2]
+
 [1]: https://github.com/pgrange/bash_unit
+[2]: https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf
