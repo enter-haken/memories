@@ -31,4 +31,4 @@ links:
 [8]: https://www.youtube.com/watch?v=wilxJLjuBp4
 [9]: https://www.youtube.com/watch?v=cg1qbkG0KRI
 [10]: https://tailwindcss.com/docs/just-in-time-mode
-[11] https://web.dev/learn/css/
+[11]: https://web.dev/learn/css/
