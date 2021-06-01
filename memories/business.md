@@ -7,12 +7,15 @@ title: business
 
 # Further reading
 
-[Why software engineers should become CEOs][1]
-[How We Bootstrapped a $1M ARR Email Client][2]
-[One man saas architecture][3]
-[Don’t hire top talent; hire for weaknesses.][4]
+* [Why software engineers should become CEOs][1]
+* [How We Bootstrapped a $1M ARR Email Client][2]
+* [One man saas architecture][3]
+* [Don’t hire top talent; hire for weaknesses.][4]
+* [In der Zwickmühle: Der richtige Vertrag für agile Softwareprojekte][5]
+
 
 [1]: https://www.tlt21.com/why-software-engineers-should-become-ceos/
 [2]: https://missiveapp.com/blog/how-we-built-1m-arr-email-client
 [3]: https://anthonynsimon.com/blog/one-man-saas-architecture/
 [4]: https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/
+[5]: https://www.heise.de/news/In-der-Zwickmuehle-Der-richtige-Vertrag-fuer-agile-Softwareprojekte-6058394.html
