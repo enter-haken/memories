@@ -12,6 +12,7 @@ title: business
 * [One man saas architecture][3]
 * [Don’t hire top talent; hire for weaknesses.][4]
 * [In der Zwickmühle: Der richtige Vertrag für agile Softwareprojekte][5]
+* [HOWTO: Be more productive][6]
 
 
 [1]: https://www.tlt21.com/why-software-engineers-should-become-ceos/
@@ -19,3 +20,4 @@ title: business
 [3]: https://anthonynsimon.com/blog/one-man-saas-architecture/
 [4]: https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/
 [5]: https://www.heise.de/news/In-der-Zwickmuehle-Der-richtige-Vertrag-fuer-agile-Softwareprojekte-6058394.html
+[6]: http://www.aaronsw.com/weblog/productivity
