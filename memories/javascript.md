@@ -9,4 +9,10 @@ links:
  - a8fdc9de-4818-11ea-b6f1-37d63c85ef2d
 ```
 
-javascript programming language
+# javascript programming language
+
+# further reading
+
+* [Deep JavaScript][1]
+
+[1]: https://exploringjs.com/deep-js/toc.html
