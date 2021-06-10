@@ -22,5 +22,7 @@ links:
 # Further reading
 
 * [eGO Elektrokart][1]
+* [Carla Cargo][2]
 
 [1]: https://bereadyto.de/elektromobilitat/ego-elektrokart/
+[2]: https://www.carlacargo.de/
