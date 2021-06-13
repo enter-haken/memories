@@ -21,6 +21,8 @@ export -f calc
 # further reading
 
 * [Linux Terminal Tools][2]
+* [Command line secrets][3]
 
 [1]: https://github.com/pgrange/bash_unit
 [2]: https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf
+[3]: https://smallstep.com/blog/command-line-secrets/
