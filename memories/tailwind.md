@@ -20,6 +20,8 @@ links:
 * [Building Intercom's Inbox UI with Tailwind CSS][9]
 * [just in time compile][10]
 * [Google Course: Learn CSS][11]
+* [Starter: Dashboard][12]
+
 
 [1]: https://fullstackphoenix.com/tutorials/get-started-with-tailwind-in-phoenix
 [2]: https://www.youtube.com/watch?v=r6mykOig_Bs
@@ -32,3 +34,4 @@ links:
 [9]: https://www.youtube.com/watch?v=cg1qbkG0KRI
 [10]: https://tailwindcss.com/docs/just-in-time-mode
 [11]: https://web.dev/learn/css/
+[12]: https://kamona-wd.github.io/starter-dashboard-layout/#
