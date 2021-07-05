@@ -14,5 +14,7 @@ links:
 # further reading
 
 * [Deep JavaScript][1]
+* [33 Concepts Every JavaScript Developer Should Know][2]
 
 [1]: https://exploringjs.com/deep-js/toc.html
+[2]: https://github.com/leonardomso/33-js-concepts
