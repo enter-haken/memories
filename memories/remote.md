@@ -20,7 +20,7 @@ Successfull remote work means:
   * people agree on what needs to be done, not when
   * this can lead to a fragmented workday
 
-# social components
+## social components
  
 Working remotely is no problem with the rigoht processes and tools .
 
