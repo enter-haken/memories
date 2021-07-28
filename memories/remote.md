@@ -30,3 +30,9 @@ Before the pandemic starts, you went to work, power on your workstation and grap
 When the first colleagues arrived, we usually did some small talk, or talk about today.
 
 How to achieve this remotely?
+
+## further reading
+
+[I went to the office for the first time. I fucking hated it.][1]
+
+[1]: https://www.reddit.com/r/cscareerquestions/comments/oosru6/i_went_to_the_office_for_the_first_time_i_fucking/
