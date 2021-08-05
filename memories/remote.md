@@ -33,8 +33,8 @@ How to achieve this remotely?
 
 ## further reading
 
-[I went to the office for the first time. I fucking hated it.][1]
-[GermanTech Jobs with filter for remote + salary][2]
+* [I went to the office for the first time. I fucking hated it.][1]
+* [GermanTech Jobs with filter for remote + salary][2]
 
 [1]: https://www.reddit.com/r/cscareerquestions/comments/oosru6/i_went_to_the_office_for_the_first_time_i_fucking/
 [2]: https://germantechjobs.de/
