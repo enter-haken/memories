@@ -6,3 +6,9 @@ links:
 ```
 
 Version control system
+
+## further reading
+
+* [Cleaning Up Git History][1]
+
+[1]: https://blog.sulami.xyz/posts/cleaning-up-git-history/
