@@ -5,7 +5,9 @@ links:
   - ab363914-3b6d-11ea-a565-77614e5867f3
 ```
 
-[Introduction to Phoenix LiveView LiveComponents][1]
+* [Introduction to Phoenix LiveView LiveComponents][1]
+* [Consistent preloading & auth in an app driven by Phoenix LiveView][2]
 
 [1]: http://blog.pthompson.org/liveview-livecomponents-introduction
+[2]: https://pubray.com/engineering/consistent-preloading-auth-in-an-app-driven-by-phoenix-liveview
 
