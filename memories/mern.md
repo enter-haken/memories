@@ -19,5 +19,7 @@ links:
 # further reading
 
 * [MERN Stack][1]
+* [Learn the MERN stack (youtube)][2]
 
 [1]: https://www.mongodb.com/mern-stack
+[2]: https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE
