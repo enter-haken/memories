@@ -18,6 +18,7 @@ links:
 * [querying osm data][7]    
 * [deutschlandGeoJSON][8]
 * [mapsharper][9]
+* [prettymaps][10]
 
 [1]: https://github.com/mpraski/pbf-parser
 [2]: https://download.geofabrik.de/europe/germany.html
@@ -28,3 +29,4 @@ links:
 [7]: https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_API_by_Example
 [8]: https://github.com/isellsoap/deutschlandGeoJSON
 [9]: https://github.com/mbloch/mapshaper
+[10]: https://github.com/marceloprates/prettymaps
