@@ -10,5 +10,7 @@ document database
 # further reading
 
 * [mongo db][1]
+* [https://www.mongodb.com/databases/mongodb-graph-database][2]
 
 [1]: https://www.mongodb.com
+[2]: https://www.mongodb.com/databases/mongodb-graph-database
