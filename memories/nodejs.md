@@ -13,6 +13,8 @@ links:
 
 * [official page][1]
 * [Top 10 Best Node.js Open Source Projects to Keep an Eye On][2]
+* [NodeJS articles - Smashing Magazine][3]
 
 [1]: https://nodejs.org
 [2]: https://nodesource.com/blog/top-10-best-nodeJS-open-source-projects
+[3]: https://www.smashingmagazine.com/category/node.js
