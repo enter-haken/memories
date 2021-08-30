@@ -17,6 +17,8 @@ A file editor
 
 * [vim pedal][1]
 * [spacevim][2]
+* [Alternative NeoVim UI (C++/QT)][3]
 
 [1]: https://github.com/alevchuk/vim-clutch
 [2]: https://spacevim.org/ 
+[3]: https://github.com/rohit-px2/nvui
