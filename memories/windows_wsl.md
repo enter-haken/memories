@@ -76,9 +76,11 @@ Setup default profile
 
 # further reading
 
-[Docker-Container im Subsystem für Linux 2 (WSL 2) ausführen][4]
+* [Docker-Container im Subsystem für Linux 2 (WSL 2) ausführen][4]
+* [Windows Subsystem for Linux GUI (WSLg)][5]
 
 [1]: https://github.com/enter-haken/dotfiles
 [2]: https://github.com/enter-haken/neovim-config
 [3]: https://docs.microsoft.com/en-us/windows/wsl/install-win10
 [4]: https://www.windowspro.de/wolfgang-sommergut/docker-container-subsystem-fuer-linux-2-wsl-2-ausfuehren
+[5]: https://github.com/microsoft/wslg
