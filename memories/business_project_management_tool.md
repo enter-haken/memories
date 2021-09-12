@@ -196,6 +196,7 @@ using game engines can fit the needs.
 * [Lyra - enabling voice calls for the next billion users ][16]
 * [Streaming via WebRTC][17]
 * [Swimlanes.io][18]
+* [Ask HN: What would your ideal issue tracker look like?][26]
 
 > If you do set out to build a developer tools company, tread carefully. The market is filled with good alternatives. User expectations are high and prices are low. Think deeply about the value you’re offering to the customer. Remember – wanting the world to be a certain way doesn’t make it so.
 
@@ -231,3 +232,4 @@ using game engines can fit the needs.
 [24]: https://app.diagrams.net/
 [25]: https://about.gitlab.com/
 [26]: https://www.jenkins.io/
+[27]: https://news.ycombinator.com/item?id=18885942
