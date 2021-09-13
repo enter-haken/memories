@@ -40,6 +40,11 @@ What kind of services / products are used?
 
 What is needed to have everything back in your own hands?
 
+# further reading
+
+* [71 Prozent der deutschen Unternehmen setzen Open-Source-Software ein][4]
+
 [1]: https://www.businessinsider.com/google-users-locked-out-after-years-2020-10 
 [2]: https://www.dw.com/en/nord-stream-2-germany-unhappy-with-new-us-sanctions/a-53805296
 [3]: https://radicale.org/3.0.html
+[4]: https://www.heise.de/news/71-Prozent-der-deutschen-Unternehmen-setzen-Open-Source-Software-ein-6190250.html
