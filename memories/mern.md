@@ -20,6 +20,8 @@ links:
 
 * [MERN Stack][1]
 * [Learn the MERN stack (youtube)][2]
+* [Learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js)][3]
 
 [1]: https://www.mongodb.com/mern-stack
 [2]: https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE
+[3]: https://www.youtube.com/watch?v=7CqJlxBYj-M
