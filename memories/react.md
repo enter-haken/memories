@@ -12,5 +12,7 @@ web framework
 # further reading
 
 * [react][1]
+* [How to set up and use Redux Toolkit with React-Redux][2]
 
 [1]: https://reactjs.org/
+[2]: https://redux.js.org/tutorials/quick-start
