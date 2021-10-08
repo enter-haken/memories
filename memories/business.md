@@ -13,6 +13,7 @@ title: business
 * [Don’t hire top talent; hire for weaknesses.][4]
 * [In der Zwickmühle: Der richtige Vertrag für agile Softwareprojekte][5]
 * [HOWTO: Be more productive][6]
+* [20 Things I’ve Learned in my 20 Years as a Software Engineer][7]
 
 
 [1]: https://www.tlt21.com/why-software-engineers-should-become-ceos/
@@ -21,3 +22,4 @@ title: business
 [4]: https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/
 [5]: https://www.heise.de/news/In-der-Zwickmuehle-Der-richtige-Vertrag-fuer-agile-Softwareprojekte-6058394.html
 [6]: http://www.aaronsw.com/weblog/productivity
+[7]: https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
