@@ -9,8 +9,10 @@ links:
 * [Consistent preloading & auth in an app driven by Phoenix LiveView][2]
 * [Liveview in different languages][3]
 * [Adding Tailwind CSS to Phoenix 1.6][4]
+* [Phoenix 1.6.0 LiveView + esbuild + Tailwind JIT + AlpineJS - A brief tutorial.][5]
 
 [1]: http://blog.pthompson.org/liveview-livecomponents-introduction
 [2]: https://pubray.com/engineering/consistent-preloading-auth-in-an-app-driven-by-phoenix-liveview
 [3]: https://github.com/dbohdan/liveviews
 [4]: https://pragmaticstudio.com/tutorials/adding-tailwind-css-to-phoenix
+[5]: https://sergiotapia.com/phoenix-160-liveview-esbuild-tailwind-jit-alpinejs-a-brief-tutorial
