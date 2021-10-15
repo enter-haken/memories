@@ -7,6 +7,6 @@ links:
 
 # amazon web services
 
-* [Gentoo AMI builder]
+* [Gentoo AMI builder][1]
 
 [1]: https://github.com/sormy/gentoo-ami-builder
