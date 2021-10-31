@@ -10,5 +10,7 @@ links:
 # further reading
 
 * [So You Want to Write a Technical Book][1]
+* [How I Motivate Myself to Write][2]
 
 [1]: http://terathon.com/blog/so-you-want-to-write-a-technical-book/
+[2]: https://blog.pragmaticengineer.com/writing-motivation/
