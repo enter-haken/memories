@@ -14,6 +14,8 @@ links:
 
 * [Deep JavaScript][1]
 * [33 Concepts Every JavaScript Developer Should Know][2]
+* [Developer Tools secrets that shouldn’t be secrets][3]
 
 [1]: https://exploringjs.com/deep-js/toc.html
 [2]: https://github.com/leonardomso/33-js-concepts
+[3]: https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/
