@@ -10,5 +10,7 @@ links:
 # Further reading
 
 * [Client-Side Drag and Drop with Phoenix LiveView][1]
+* [Phoenix upload files example][2]
 
 [1]: https://www.headway.io/blog/client-side-drag-and-drop-with-phoenix-liveview
+[2]: https://www.poeticoding.com/step-by-step-tutorial-to-build-a-phoenix-app-that-supports-user-uploads/
