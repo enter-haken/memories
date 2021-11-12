@@ -7,3 +7,7 @@ links:
 ```
 
 line editor
+
+[Usefull sed scripts][1]
+
+[1]: https://github.com/adrianscheff/useful-sed
