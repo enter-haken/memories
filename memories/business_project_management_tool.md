@@ -114,6 +114,12 @@ using game engines can fit the needs.
 > So why should be jump to web technologies to get cross platform GUI applications? We got a tool, Godot, that runs on all major platforms which uses minimal resources and which anyone can get started using quickly.
 
 [Is Making Advanced GUI Applications with Godot the Future?][7]
+
+> Godello (aka GodoTrello)
+
+> Trello inspired kanban board made with the Godot Engine and GDScript, powered by an online real-time collaborative backend (Elixir and Phoenix Channels)
+
+[Godello][28]
  
 # Operational considerations
 
@@ -233,3 +239,4 @@ using game engines can fit the needs.
 [25]: https://about.gitlab.com/
 [26]: https://www.jenkins.io/
 [27]: https://news.ycombinator.com/item?id=18885942
+[28]: https://github.com/alfredbaudisch/Godello
