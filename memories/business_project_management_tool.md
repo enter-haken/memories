@@ -204,6 +204,12 @@ using game engines can fit the needs.
 * [Swimlanes.io][18]
 * [Ask HN: What would your ideal issue tracker look like?][26]
 
+> What is this about?
+> Atlassian has given customers advance notice that their Server offering will be retired. You can read the detailed announcement timeline here.
+> 
+> But don't panic - we will create a curated list of alternatives. This site is currently work in progress. Feel free to send us a PR on Github.
+[Bye Bye Server][29]
+
 > If you do set out to build a developer tools company, tread carefully. The market is filled with good alternatives. User expectations are high and prices are low. Think deeply about the value you’re offering to the customer. Remember – wanting the world to be a certain way doesn’t make it so.
 
 > Pick a large market but build for specific users.
@@ -240,3 +246,4 @@ using game engines can fit the needs.
 [26]: https://www.jenkins.io/
 [27]: https://news.ycombinator.com/item?id=18885942
 [28]: https://github.com/alfredbaudisch/Godello
+[29]: https://bye-bye-server.com/

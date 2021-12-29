@@ -13,8 +13,10 @@ links:
 * [fuzzy search names][2]
 * [temporary tables][3]
 * [Postgres query execution: simple query - prepared statement][4]
+* [System design hack: Postgres is a great pub/sub & job server][5]
 
 [1]: https://docs.gitlab.com/ee/development/database/
 [2]: https://info.crunchydata.com/blog/fuzzy-name-matching-in-postgresql 
 [3]: https://github.com/arkhipov/temporal_tables
 [4]: https://dev.to/yugabyte/postgres-query-execution-simple-query-prepared-statement-3kk0
+[5]: https://webapp.io/blog/postgres-is-the-answer/
