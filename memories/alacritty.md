@@ -1,6 +1,7 @@
 ```
 id: 79cea057-2577-4340-8f53-1bfe29cc2cb3
 title: Alacritty
+links:
   - 3da4e373-670d-4a8b-b2f1-865e02324840
 ```
 
