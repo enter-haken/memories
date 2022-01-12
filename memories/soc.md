@@ -9,9 +9,11 @@ links:
 
 * arm based board
 * mechanical keyboard like [pok3r][2]
-* display?
+* only wireless display?
+  * use [miraclecast][3] for connecting to external displays
+  * simple display (4 inches or so) to get connected to wireless lan?
 
 [Rock 5 SBC features octa-core RK3588, 16GB RAM, and triple displays][1]
-
 [1]: https://linuxgizmos.com/rock-5-sbc-features-octa-core-rk3588-16gb-ram-and-triple-displays/ 
 [2]: http://www.vortexgear.tw/vortex2_2.asp?kind=47&kind2=220&kind3=&kind4=1023
+[3]: https://github.com/albfan/miraclecast
