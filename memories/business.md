@@ -14,6 +14,7 @@ title: business
 * [In der Zwickmühle: Der richtige Vertrag für agile Softwareprojekte][5]
 * [HOWTO: Be more productive][6]
 * [20 Things I’ve Learned in my 20 Years as a Software Engineer][7]
+* [Ask HN: Those making $500/month on side projects in 2022 – Show and tell][8]
 
 
 [1]: https://www.tlt21.com/why-software-engineers-should-become-ceos/
@@ -23,3 +24,4 @@ title: business
 [5]: https://www.heise.de/news/In-der-Zwickmuehle-Der-richtige-Vertrag-fuer-agile-Softwareprojekte-6058394.html
 [6]: http://www.aaronsw.com/weblog/productivity
 [7]: https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
+[8]: https://news.ycombinator.com/item?id=29995152
