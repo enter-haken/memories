@@ -82,10 +82,11 @@ From the business perspective:
 * [The Brain Maps Out Ideas and Memories Like Spaces][3]
 * [fastText - Library for efficient text classification and representation learning][4]
 * [cytoscape - Graph theory (network) library for visualisation and analysis][5] 
+* [A tour to my Zettelkasten note clusters][6]
 
 [1]: https://observablehq.com/@d3/mobile-patent-suits
 [2]: https://observablehq.com/@d3/sticky-force-layout?collection=@d3/d3-force
 [3]: https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/
 [4]: https://fasttext.cc/
 [5]: https://js.cytoscape.org/
-
+[6]: https://news.ycombinator.com/item?id=29996037
