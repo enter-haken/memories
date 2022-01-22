@@ -10,6 +10,8 @@ digitalize your paperwork
 ## requirements
 
 * [Brother ADS-2800W][8]
+  * [similar scanner review][9]
+  * [ADS 1700W review][10]
 * [Aktenvernichter][7]
 
 ## workflow
@@ -34,3 +36,5 @@ digitalize your paperwork
 [5]: https://github.com/jonaswinkler/paperless-ng
 [7]: https://www.amazon.de/Leitz-80090000-Aktenvernichter-Partikelschnitt-Sicherheitsstufe/dp/B07J4X1WR6
 [8]: https://www.cyberport.de/pc-und-zubehoer/drucker-scanner/scanner/brother/pdp/6908-15m/brother-ads-2800w-dokumentenscanner-duplex-lan-wlan-usb.html
+[9]: https://mizine.de/gadgets/schneller-netzwerk-dokumentenscanner-mit-einzug-duplex-und-scan-auf-smb-freigaben/
+[10]: https://wolf-u.li/5962/review-und-test-des-brother-ads-1700w-full-duplex-scanners/
