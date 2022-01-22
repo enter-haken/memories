@@ -9,7 +9,7 @@ digitalize your paperwork
 
 ## requirements
 
-* [document scaner][8]
+* [Brother ADS-2800W][8]
 * [Aktenvernichter][7]
 
 ## workflow
@@ -33,5 +33,4 @@ digitalize your paperwork
 [4]: https://www.verbatim.de/de/cat/mdisc-archival-media/
 [5]: https://github.com/jonaswinkler/paperless-ng
 [7]: https://www.amazon.de/Leitz-80090000-Aktenvernichter-Partikelschnitt-Sicherheitsstufe/dp/B07J4X1WR6
-[8]: https://www.amazon.de/Brother-ADS-2800W-Dokumentenscanner-WLAN-schwarz/dp/B01AWGDBDY
-
+[8]: https://www.cyberport.de/pc-und-zubehoer/drucker-scanner/scanner/brother/pdp/6908-15m/brother-ads-2800w-dokumentenscanner-duplex-lan-wlan-usb.html
