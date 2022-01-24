@@ -11,4 +11,10 @@ links:
 > Safe Rust bridge for creating Erlang NIF functions
 [github][1]
 
+
+# further reading
+
+* [Playing with FFmpeg C code in Elixir][2]
+
 [1]: https://github.com/rusterlium/rustler
+[2]: https://dnlserrano.dev/2019/03/10/elixir-nifs.html
