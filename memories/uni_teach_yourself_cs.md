@@ -5,5 +5,8 @@ links:
   - 306cdd93-7b23-41a4-a2e8-873d02cc6094
 ```
 
-[Teach yourself computer science](https://teachyourselfcs.com/)
+* [Foundations of Computer Science][1]
+* [Teach yourself computer science][2]
 
+[1]: http://infolab.stanford.edu/~ullman/focs.html
+[2]: https://teachyourselfcs.com/
