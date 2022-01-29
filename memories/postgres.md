@@ -7,6 +7,11 @@ links:
 
 # Postgres
 
+## Graph
+
+> pache AGE is a PostgreSQL Extension that provides graph database functionality. AGE is an acronym for A Graph Extension, and is inspired by Bitnine's fork of PostgreSQL 10, AgensGraph, which is a multi-model database. The goal of the project is to create single storage that can handle both relational and graph model data so that users can use standard ANSI SQL along with openCypher, the Graph query language.
+[Github][8]
+
 # Further reading
 
 * [Gitlab database guides][1]
@@ -24,3 +29,4 @@ links:
 [5]: https://webapp.io/blog/postgres-is-the-answer/
 [6]: https://spacelift.io/blog/tricking-postgres-into-using-query-plan
 [7]: https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/uk-covid-19-dashboard-built-using-postgres-and-citus-for/ba-p/3036276
+[8]: https://github.com/apache/incubator-age
