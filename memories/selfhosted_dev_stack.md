@@ -12,9 +12,14 @@ links:
 * focalboard (like trello) 
 * jitsi (video chat / screen sharing)
 * gitlab (source code management / ci/cd)
+* penpot.app (design)
+* pyrite (video chat)
+* Nextcloud (sharing documents) 
+* odoo (ERP)
+* ERPnext (ERP)
 
 # printer
 
 [Brother HL-L2375DW S/W-Laserdrucker LAN WLAN Duplex][1]
 
-[1]: https://www.cyberport.de/pc-und-zubehoer/drucker-scanner/laserdrucker/brother/pdp/6510-191/brother-hl-l2375dw-s-w-laserdrucker-lan-wlan-duplex.html
+[1]: https://ww.cyberport.de/pc-und-zubehoer/drucker-scanner/laserdrucker/brother/pdp/6510-191/brother-hl-l2375dw-s-w-laserdrucker-lan-wlan-duplex.html
