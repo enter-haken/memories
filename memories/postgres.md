@@ -21,6 +21,7 @@ links:
 * [System design hack: Postgres is a great pub/sub & job server][5]
 * [Tricking Postgres into using an insane – but 200x faster – query plan][6]
 * [UK COVID-19 dashboard built using Postgres and Citus for millions of users][7]
+* [PostgreSQL Schema Change Guide][9]
 
 [1]: https://docs.gitlab.com/ee/development/database/
 [2]: https://info.crunchydata.com/blog/fuzzy-name-matching-in-postgresql 
@@ -30,3 +31,4 @@ links:
 [6]: https://spacelift.io/blog/tricking-postgres-into-using-query-plan
 [7]: https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/uk-covid-19-dashboard-built-using-postgres-and-citus-for/ba-p/3036276
 [8]: https://github.com/apache/incubator-age
+[9]: https://gist.github.com/jcoleman/1e6ad1bf8de454c166da94b67537758b
