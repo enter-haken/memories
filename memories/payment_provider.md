@@ -12,6 +12,10 @@ Possiple payment providers:
 * [Stripe][1]
 * [Paddle][2]
 
+# further reading
+
+* [My Stripe Tax Story][3]
+
 [1]: https://stripe.com
 [2]: https://paddle.com
-
+[3]: https://gist.github.com/humandoing/5ec7c224691282532db0b9dc37797d7c
