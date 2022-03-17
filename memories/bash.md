@@ -24,9 +24,11 @@ export -f calc
 * [Command line secrets][3]
 * [An Opinionated Guide to xargs][4]
 * [Creating a bash completion script][5]
+* [Aweseome text user interfaces][6]
 
 [1]: https://github.com/pgrange/bash_unit
 [2]: https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf
 [3]: https://smallstep.com/blog/command-line-secrets/
 [4]: https://www.oilshell.org/blog/2021/08/xargs.html
 [5]: https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial
+[6]: https://github.com/rothgar/awesome-tuis
