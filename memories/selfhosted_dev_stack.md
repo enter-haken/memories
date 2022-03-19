@@ -11,12 +11,13 @@ links:
 * mattermost (like slack)
 * focalboard (like trello) 
 * jitsi (video chat / screen sharing)
-* gitlab (source code management / ci/cd)
+* gitlab (source code management / ci/cd / container registry)
 * penpot.app (design)
 * pyrite (video chat)
 * Nextcloud (sharing documents) 
 * odoo (ERP)
 * ERPnext (ERP)
+* habour (container registry)
 
 # printer
 
