@@ -7,6 +7,10 @@ links:
 
 # bike
 
+> 2019, zu Ehren unseres 10-jährigen Jubiläums, haben wir uns auf die Mission begeben, das absolut perfekte Cargobike zu bauen. Für dieses Projekt haben wir mit Elian Veltman von ELIAN CYCLES zusammengearbeitet, einem Rahmenbauer aus Maurik in den Niederlanden.
+[obst und gemüse][2]
+
 [rohre biegen][1]
 
 [1]: https://www.mtb-news.de/forum/t/rohrbiege-vorrichtung-wie-biegt-ihr.909468/
+[2]: https://obstundgemuese.ch/articles/bike-check-ein-dunkelblaues-obst-and-gemuse-elian-cycles-ultimate-ecargo
