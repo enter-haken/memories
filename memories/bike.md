@@ -15,8 +15,11 @@ Der Schwarzwälder hat sich spezialisiert auf Lastenräder. Schon seit Ende des 
 Was macht der Maschinenbau-Ingenieur und Tüftler aber anders als andere? Seine Idee heißt: „Compact Cargo-Bike“. Die eﬀektive Länge ist im Grunde identisch mit der eines normalen Fahrrads. Trotzdem kann man mit dem kompakten Lastenrad locker Kinder und Einkäufe mitnehmen. Sein Terrain ist die Stadt. Klimafreundlich, geräuscharm und immer an der frischen Luft dank Fahrverhalten und Elektromotor ist das nicht einmal besonders mühsam. So geht Zukunft. 
 [Youtube][3]
 
+> Nach dem Vorbild erprobter Automobiltechnologie funktioniert die Pinion Getriebetechnik auf Basis eines Stirnradgetriebes mit zwei nacheinander geschalteten Teilgetrieben. Aus der Kombination der beiden Teilgetriebe mit ihren unterschiedlichen Radpaaren werden die einzelnen Gänge abgeleitet.
+[Pinion][4]
 [rohre biegen][1]
 
 [1]: https://www.mtb-news.de/forum/t/rohrbiege-vorrichtung-wie-biegt-ihr.909468/
 [2]: https://obstundgemuese.ch/articles/bike-check-ein-dunkelblaues-obst-and-gemuse-elian-cycles-ultimate-ecargo
 [3]: https://www.youtube.com/watch?v=ZUK7SKumutQ
+[4]: https://pinion.eu/getriebe/
