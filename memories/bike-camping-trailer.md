@@ -25,4 +25,9 @@ links:
 * integrierte ISO Matte?
 * Gestell in den Anhänger integrieren?
 
+## wat zu lesen
+
+* [Bau eines Einrad-Fahrradanhängers][2]
+
 [1]: https://www.meinbwshop.de/Original-US-Army-Feldbett-gebraucht-m-neuem-Bezug
+[2]: http://www.kockmann-paderborn.de/rund_ums_rad/radanhaenger/index.htm
