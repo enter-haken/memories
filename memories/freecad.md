@@ -10,5 +10,7 @@ links:
 # FreeCAD
 
 * [FreeCAD][1]
+* [Tutorial][2]
 
 [1]: https://github.com/FreeCAD
+[2]: https://www.youtube.com/watch?v=yvbn49DdnYo
