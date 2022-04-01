@@ -36,7 +36,9 @@ How to achieve this remotely?
 * [I went to the office for the first time. I fucking hated it.][1]
 * [GermanTech Jobs with filter for remote + salary][2]
 * [NoiseTorch - Real-time microphone noise suppression on Linux.][3]
+* [Asynchronous Communication: The Real Reason Remote Workers Are More Productive][4]
 
 [1]: https://www.reddit.com/r/cscareerquestions/comments/oosru6/i_went_to_the_office_for_the_first_time_i_fucking/
 [2]: https://germantechjobs.de/
 [3]: https://github.com/lawl/NoiseTorch
+[4]: https://blog.doist.com/asynchronous-communication/
