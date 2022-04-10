@@ -8,7 +8,9 @@ title: rust
 * [How Prime Video updates its app for more than 8,000 device types - Rust/WebAssembly][2]
 * [Tauri. Build smaller, faster, and more secure desktop applications with a web frontend][1]
 * [Dim, a media manager fueled by dark forces.][3]
+* [Rust by Example][4]
 
 [1]: https://tauri.studio/en/
 [2]: https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types
 [3]: https://github.com/Dusk-Labs/dim
+[4]: https://doc.rust-lang.org/rust-by-example/index.html
