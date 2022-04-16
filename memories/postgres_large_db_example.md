@@ -5,9 +5,7 @@ links:
   - e94746f6-3b6f-11ea-a29f-336b2dc2999d
 ```
 
-```
-If I would start over and would have spent time to estimate how quick and how large we are going to grow, I would have used bare-metal setup and hired a freelance DBA from the first day.
-```
+> If I would start over and would have spent time to estimate how quick and how large we are going to grow, I would have used bare-metal setup and hired a freelance DBA from the first day.
 
 [Lessons learned scaling PostgreSQL database to 1.2bn records/month][1]
 
