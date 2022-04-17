@@ -6,3 +6,9 @@ title: tui
 # TUI
 
 Text User interface
+
+# Examples
+
+[The Stress Terminal UI: s-tui][1]
+
+[1]: https://amanusk.github.io/s-tui/

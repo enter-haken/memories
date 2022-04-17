@@ -19,8 +19,10 @@ A file editor
 * [spacevim][2]
 * [Alternative NeoVim UI (C++/QT)][3]
 * [VIM color schemes][4]
+* [Learnings after 500 commits to my vimrc][5]
 
 [1]: https://github.com/alevchuk/vim-clutch
 [2]: https://spacevim.org/ 
 [3]: https://github.com/rohit-px2/nvui
 [4]: https://vimcolorschemes.com/
+[5]: https://iamsang.com/en/2022/04/13/vimrc/
