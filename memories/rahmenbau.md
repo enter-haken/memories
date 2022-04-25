@@ -3,9 +3,15 @@ id: 3237e9a0-4557-40e4-9a22-75923a32c28d
 title: Rahmenbau
 links:
   - 8cad7026-45ed-473d-87fe-2f982f228db1
+  - 481adb7a-3a98-4a27-8e49-27f707826c7c
+  - 30f76efb-20c1-48d7-baed-6a57f1fe71e4
 ```
 
 # Rahmenbau
+
+> Lehren machen einem das Leben leichter, klingt fast philosophisch, ist aber so, vor allem, wenn es um (Wiederhol-)Genaueigkeit geht. Man kann einen gemufften (Fahrrad)Rahmen auch auf einer Zeichnung und ebenen Unterlage machen oder mit zwei Latten und nem Laufrad, doch schon beim ungemufften Rahmen wird es schwierig.
+Daher sind auch bei mir im Laufe der Zeit verschiedene Lehren entstanden und immer wieder geändert oder neue gebaut worden.
+> [Evolution (m)einer Rahmenlehre][34]
 
 ## impressions
 
@@ -26,6 +32,21 @@ links:
 ![alt][15]
 ![alt][16]
 ![alt][17]
+![alt][18]
+![alt][19]
+![alt][21]
+![alt][22]
+![alt][23]
+![alt][24]
+![alt][25]
+![alt][26]
+![alt][27]
+![alt][28]
+![alt][29]
+![alt][30]
+![alt][31]
+![alt][32]
+![alt][33]
 
 [1]: https://i.pinimg.com/564x/1c/0d/eb/1c0debc67e802521c2521c9c3b693ccb.jpg
 [2]: https://i.pinimg.com/564x/fb/81/8f/fb818f5aceb0c6b6a2146c8549c0785c.jpg
@@ -44,5 +65,20 @@ links:
 [15]: https://i.pinimg.com/564x/13/d6/13/13d61325fbeee4437f8eacfb38019833.jpg
 [16]: https://i.pinimg.com/originals/79/d4/48/79d448d53f47a3b7e1989e22963752f6.jpg
 [17]: https://www.pinterest.de/pin/5911043256599965/
-
-
+[18]: https://i.pinimg.com/564x/e5/6c/9e/e56c9e36591cb15da377d4b2fb6e6321.jpg
+[19]: https://i.pinimg.com/564x/f4/e7/1b/f4e71bbeea55778ca359fa3165939551.jpg
+[20]: https://i.pinimg.com/564x/15/47/0c/15470ca91cae1b5fe9e4fd0514ae7e12.jpg
+[21]: https://i.pinimg.com/564x/57/fd/e2/57fde2688060b113b8616168da7d2c84.jpg 
+[22]: https://i.pinimg.com/564x/32/ce/39/32ce39bcd793335133a7854d9557a7c2.jpg
+[23]: https://i.pinimg.com/564x/99/5e/0b/995e0b2868ce3e908e317a61633b5aed.jpg
+[24]: https://i.pinimg.com/564x/97/7a/3f/977a3f72c29a263c2c7109363796e952.jpg
+[25]: https://i.pinimg.com/originals/b3/16/ab/b316ab0e7c18971b18478d9b6f5535a2.jpg
+[26]: https://i.pinimg.com/564x/63/06/0d/63060df8c360b9f8d045d35e0b35f665.jpg
+[27]: https://i.pinimg.com/originals/35/e3/c3/35e3c3c0c60f990f7c7da9d63d5e9821.jpg
+[28]: https://i.pinimg.com/originals/36/b4/b4/36b4b4e1fc52e591812b739583cf4660.jpg
+[29]: https://i.pinimg.com/564x/64/07/14/64071410ee205497b10ee0605401592b.jpg
+[30]: https://i.pinimg.com/564x/a1/fe/53/a1fe534695d3ef7bac2c75b7a9889136.jpg
+[31]: https://i.pinimg.com/564x/b2/46/74/b2467441014a7ceeb4547911a09383b1.jpg
+[32]: https://i.pinimg.com/564x/9b/d3/8a/9bd38a6e5f00883a5b18aa363085389e.jpg
+[33]: https://i.pinimg.com/564x/93/42/b6/9342b609bcb0f14ccf5c9f30fbc20a64.jpg
+[34]: http://barn.works/2017/evolution-meiner-rahmenlehre/

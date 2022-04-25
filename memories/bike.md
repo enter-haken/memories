@@ -18,7 +18,16 @@ links:
 > Nach dem Vorbild erprobter Automobiltechnologie funktioniert die Pinion Getriebetechnik auf Basis eines Stirnradgetriebes mit zwei nacheinander geschalteten Teilgetrieben. Aus der Kombination der beiden Teilgetriebe mit ihren unterschiedlichen Radpaaren werden die einzelnen Gänge abgeleitet.
 > [Pinion][4]
 
+## rohre
+
+[Stahl Rohre - nahtlos kaltgezogen / Tennant][7]
+
 * [rohre biegen][1]
+
+## Rahmen
+
+> Dein alter Drahtesel ist in die Jahre gekommen und hat seine besten Zeiten bereits hinter sich? Grundsätzlich fährt sich das Fahrrad jedoch noch sehr gut und es wäre auch schade, es nach all den gemeinsamen Ausfahrten und Erlebnissen einfach so zu entsorgen? Hast du dir schon einmal überlegt, dein altes Fahrrad zu lackieren und ihm so wieder neues Leben einzuhauchen?
+> [Fahrrad lackieren - So machst du es richtig.][8]
 
 > An open source bike computer based on Raspberry Pi Zero (W, WH) with GPS and ANT+. Including offline map and navigation.
 > Pi Zero Bikecomputer is a GPS and ANT+ bike computer based on Raspberry Pi Zero(W, WH). This is the first DIY project in the world integrated with necesarry hardwares and softwares for modern bike computer. It measures and records position(GPS), ANT+ sensor(speed/cadence/power) and I2C sensor(pressure/temperature/accelerometer, etc). It also displays these values, even maps and courses in real-time. In addition, it write out log into .fit format file.
@@ -36,3 +45,5 @@ links:
 [4]: https://pinion.eu/getriebe/
 [5]: https://github.com/hishizuka/pizero_bikecomputer
 [6]: https://www.linuxtut.com/en/46619b271daaa9ad41b3/
+[7]: https://motorsport-metall.de/rohre/25crmo4-1.7218/8/stahl-rohre-nahtlos-kaltgezogen
+[8]: https://thecycleverse.com/de/blog/fahrrad-lackieren-anleitung

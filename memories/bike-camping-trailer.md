@@ -27,7 +27,11 @@ links:
 
 ## wat zu lesen
 
+> Sie fahren leidenschaftlich Fahrrad und Campen gern? Dann kennen Sie dies sicherlich: Eine Übernachtung im Zelt ist trotz Isomatte nicht gerade sehr komfortabel. Auch ein Zeltaubau im strömenden Regen sorgt nicht unbedingt für gute Laune. Wäre es nicht schön, wenn Sie mit einem Fahrrad mit Minicamper unterwegs sein könnten? Warum also nicht ein Fahrradwohnmobil kaufen. Oder einfach einen Fahrrad Wohnwagen selber bauen und damit auf Reisen gehen?
+> [Fahrrad Wohnwagen selber bauen – geht das?][4]
+
 * [Bau eines Einrad-Fahrradanhängers][2]
 
 [1]: https://www.meinbwshop.de/Original-US-Army-Feldbett-gebraucht-m-neuem-Bezug
 [2]: http://www.kockmann-paderborn.de/rund_ums_rad/radanhaenger/index.htm
+[3]: https://boegazin.de/fahrrad-wohnwagen-selber-bauen/
