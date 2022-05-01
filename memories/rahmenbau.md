@@ -50,6 +50,8 @@ links:
 ![alt][31]
 ![alt][32]
 ![alt][33]
+![alt][36]
+![alt][37]
 
 [1]: https://i.pinimg.com/564x/1c/0d/eb/1c0debc67e802521c2521c9c3b693ccb.jpg
 [2]: https://i.pinimg.com/564x/fb/81/8f/fb818f5aceb0c6b6a2146c8549c0785c.jpg
@@ -86,3 +88,5 @@ links:
 [33]: https://i.pinimg.com/564x/93/42/b6/9342b609bcb0f14ccf5c9f30fbc20a64.jpg
 [34]: http://barn.works/2017/evolution-meiner-rahmenlehre/
 [35]: https://arstechnica.com/gadgets/2018/11/25-years-of-two-wheeled-tech/
+[36]: https://pbs.twimg.com/media/D8UXElOVUAAeETT?format=jpg&name=4096x4096
+[37]: https://pbs.twimg.com/media/D5ayMrtW4AYEsYs?format=jpg&name=large
