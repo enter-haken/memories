@@ -10,8 +10,11 @@ links:
 # Rahmenbau
 
 > Lehren machen einem das Leben leichter, klingt fast philosophisch, ist aber so, vor allem, wenn es um (Wiederhol-)Genaueigkeit geht. Man kann einen gemufften (Fahrrad)Rahmen auch auf einer Zeichnung und ebenen Unterlage machen oder mit zwei Latten und nem Laufrad, doch schon beim ungemufften Rahmen wird es schwierig.
-Daher sind auch bei mir im Laufe der Zeit verschiedene Lehren entstanden und immer wieder geändert oder neue gebaut worden.
+> Daher sind auch bei mir im Laufe der Zeit verschiedene Lehren entstanden und immer wieder geändert oder neue gebaut worden.
 > [Evolution (m)einer Rahmenlehre][34]
+
+> We tend to think of technology as something that moves electrons around. But I'm going to take a little diversion into technology that is used to move us around (and yes, our electrons as well, you pedants). The humble bicycle has been in existence for roughly two centuries, and the general outlines of what we use today were in place by the early 1900s, so you'd be forgiven for thinking that not much has changed. I certainly hadn't given it much thought.
+> [How bicycles have changed in the last 25 years][35]
 
 ## impressions
 
@@ -68,7 +71,7 @@ Daher sind auch bei mir im Laufe der Zeit verschiedene Lehren entstanden und imm
 [18]: https://i.pinimg.com/564x/e5/6c/9e/e56c9e36591cb15da377d4b2fb6e6321.jpg
 [19]: https://i.pinimg.com/564x/f4/e7/1b/f4e71bbeea55778ca359fa3165939551.jpg
 [20]: https://i.pinimg.com/564x/15/47/0c/15470ca91cae1b5fe9e4fd0514ae7e12.jpg
-[21]: https://i.pinimg.com/564x/57/fd/e2/57fde2688060b113b8616168da7d2c84.jpg 
+[21]: https://i.pinimg.com/564x/57/fd/e2/57fde2688060b113b8616168da7d2c84.jpg
 [22]: https://i.pinimg.com/564x/32/ce/39/32ce39bcd793335133a7854d9557a7c2.jpg
 [23]: https://i.pinimg.com/564x/99/5e/0b/995e0b2868ce3e908e317a61633b5aed.jpg
 [24]: https://i.pinimg.com/564x/97/7a/3f/977a3f72c29a263c2c7109363796e952.jpg
@@ -82,3 +85,4 @@ Daher sind auch bei mir im Laufe der Zeit verschiedene Lehren entstanden und imm
 [32]: https://i.pinimg.com/564x/9b/d3/8a/9bd38a6e5f00883a5b18aa363085389e.jpg
 [33]: https://i.pinimg.com/564x/93/42/b6/9342b609bcb0f14ccf5c9f30fbc20a64.jpg
 [34]: http://barn.works/2017/evolution-meiner-rahmenlehre/
+[35]: https://arstechnica.com/gadgets/2018/11/25-years-of-two-wheeled-tech/
