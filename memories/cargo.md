@@ -7,12 +7,15 @@ links:
 
 # cargo bike
 
-* [Catan titanium Cargobike corners like no other with light, comfortable ride][1]
-* [Retrovelos Ponyjohn Cargobike][2]
-* [Lastenrad - Bauanleitungen][12]
+- [Catan titanium Cargobike corners like no other with light, comfortable ride][1]
+- [Retrovelos Ponyjohn Cargobike][2]
+- [Lastenrad - Bauanleitungen][12]
+- [cargobikeforum.de][39]
+- [E-Cargo-Bike-DIY][41]
 
 # example
 
+![40][40]
 ![3][3]
 ![15][15]
 ![24][24]
@@ -47,8 +50,6 @@ links:
 ![36][36]
 ![37][37]
 ![38][38]
-
-
 
 [1]: https://bikerumor.com/catan-titanium-cargobike-corners-like-no-other-with-light-comfortable-ride/
 [2]: https://frankys.blog/2017/03/12/retrovelos-ponyjohn-cargobike/
@@ -87,3 +88,7 @@ links:
 [36]: https://pbs.twimg.com/media/Ekl-TbZXYAAyJ6G?format=jpg&name=large
 [37]: https://pbs.twimg.com/media/EkiwBIhX0AUIar8?format=jpg&name=large
 [38]: https://pbs.twimg.com/media/EVArzxIXsAYGUTP?format=jpg&name=4096x4096
+[39]: https://cargobikeforum.de
+[40]: https://pbs.twimg.com/media/FUg2_HYWIAEGIX0?format=jpg&name=large
+[41]: https://www.instructables.com/E-Cargo-Bike-DIY/
+
