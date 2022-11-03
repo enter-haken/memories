@@ -36,6 +36,14 @@ Maybe an other RDP protocol...
 > NICE DCV is a high-performance remote display protocol that provides customers with a secure way to deliver remote desktops and application streaming from any cloud or data center to any device, over varying network conditions. With NICE DCV and Amazon EC2, customers can run graphics-intensive applications remotely on EC2 instances, and stream their user interface to simpler client machines, eliminating the need for expensive dedicated workstations. Customers across a broad range of HPC workloads use NICE DCV for their remote visualization requirements. The NICE DCV streaming protocol is also utilized by popular services, like Amazon Appstream 2.0, AWS Nimble Studio, and AWS RoboMaker.
 > [AWS documentation][5]
 
+AWS Compute Blog
+
+> Use Amazon EC2 for cost-efficient cloud gaming with pay-as-you-go pricing
+
+> Since AWS launched in 2006, cloud computing disrupted traditional IT operations by providing a more cost-efficient, scalable, and secure alternative to owning hardware and data centers. Similarly, cloud gaming today enables gamers to play video games with pay-as-you go pricing. This removes the need of high upfront investments in gaming hardware. Cloud gaming platforms like Amazon Luna are an entryway, but customers are limited to the games available on the service. Furthermore, many customers also prefer to own their games, or they already have a sizable collection. For those use cases, vendor-neutral software like NICE DCV or Parsec are powerful solutions for streaming your games from anywhere.
+
+> [Blog entry][6]
+
 A little bit older... 2015
 
 > Revised and much faster, run your own high-end cloud gaming service on EC2!
@@ -46,3 +54,4 @@ A little bit older... 2015
 [3]: https://lg.io/2015/07/05/revised-and-much-faster-run-your-own-highend-cloud-gaming-service-on-ec2.html
 [4]: https://www.baitando.com/it/2021/01/01/setting-up-a-cloud-gaming-vm
 [5]: https://aws.amazon.com/hpc/dcv/
+[6]: https://aws.amazon.com/blogs/compute/use-amazon-ec2-for-cost-efficient-cloud-gaming-with-pay-as-you-go-pricing/
