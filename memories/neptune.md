@@ -16,7 +16,9 @@ links:
 
 * [Accessing the Neptune Graph with openCypher][2]
 * [age PostgreSQL extension (github)][3]
+* [openCypher Syntax Cheatsheet][4]
 
 [1]: https://aws.amazon.com/neptune/
 [2]: https://docs.aws.amazon.com/neptune/latest/userguide/access-graph-opencypher.html
 [3]: https://github.com/apache/age
+[4]: https://github.com/aws-samples/amazon-neptune-samples/blob/master/opencypher/Cheatsheet.md
