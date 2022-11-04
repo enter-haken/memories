@@ -60,10 +60,13 @@ links:
 - [Parsec vs Moonlight vs NICE DCV on AWS | Cloud Gaming (Youtube)][8]
 - [Roll Your Own Cloud Gaming Server | Cloud Gaming (Youtube)][9]
 
-## A little bit older... 2015
+## snipets
 
-> Revised and much faster, run your own high-end cloud gaming service on EC2!
-> [Blog entry][3]
+Getting the price for spot instances.
+
+```
+aws --region=eu-central-1 ec2 describe-spot-price-history --instance-types g5.xlarge --start-time=$(date +%s) --product-descriptions="Windows" --query 'SpotPriceHistory[*].{az:AvailabilityZone, price:SpotPrice}'
+```
 
 [1]: https://gmusumeci.medium.com/how-to-deploy-a-windows-server-ec2-instance-in-aws-using-terraform-dd86a5dbf731
 [2]: https://github.com/KopiCloud/terraform-aws-windows-ec2-instance
