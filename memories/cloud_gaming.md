@@ -52,13 +52,25 @@ links:
 > The scripts in this repository automate most of the manual operations needed to setup such an instance. The only exception is management of AMIs, which must be done through the AWS management console.
 >
 > Currently only compatible with g3 and g4 instance family. The script will still run on other instance types, but gpu driver will have to be installed manually.
-> [Github][10]
+> [Github][10] |
+> [Github - gusse (fork)][11] |
+> [Github - lachlanclulow (fork)][12] |
+> [Github - MostlyVet (fork)][13] |
+> [Github (fork)][14] |
+> [Github (fork)][15]
+
+## 
+
+> PERFORMANCE COMPARISON OF NVIDIA DRIVERS AND GPU-BASED AWS INSTANCES
+> Working with graphics and 3D applications it is always important to get the best performance for the end user. We have conducted a performance comparison of GPU-Based Instances and nVidia Drivers on AWS to understand optimal configurations leveraging the popular Unigine Heaven performance benchmark. 
+> [Blog entry][17]
 
 ## Videos
 
 - [NICE DCV on AWS Tutorial | Cloud Gaming (Youtube)][7]
 - [Parsec vs Moonlight vs NICE DCV on AWS | Cloud Gaming (Youtube)][8]
 - [Roll Your Own Cloud Gaming Server | Cloud Gaming (Youtube)][9]
+- [Gaming in the Cloud: Using AWS to Stream PC games at 1440p 60fps!][16]
 
 ## snipets
 
@@ -78,3 +90,11 @@ aws --region=eu-central-1 ec2 describe-spot-price-history --instance-types g5.xl
 [8]: https://www.youtube.com/watch?v=xUwyBiMZbws
 [9]: https://www.youtube.com/watch?v=gE20QLY6gAI
 [10]: https://github.com/badjware/aws-cloud-gaming
+<!-- slightly different forks -->
+[11]: https://github.com/gusse/aws-cloud-gaming
+[12]: https://github.com/lachlanclulow/aws-cloud-gaming
+[13]: https://github.com/MostlyVet/aws-cloud-gaming
+[14]: https://github.com/pyranja/aws-cloud-gaming
+[15]: https://github.com/brainstorm/aws-windows
+[16]: https://www.youtube.com/watch?v=aJ8MO6Sfvpo
+[17]: https://www.ni-sp.com/performance-comparison-of-gpu-based-instances-and-nvidia-drivers-on-aws/
