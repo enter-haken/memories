@@ -59,11 +59,15 @@ links:
 > [Github (fork)][14] |
 > [Github (fork)][15]
 
-## 
-
 > PERFORMANCE COMPARISON OF NVIDIA DRIVERS AND GPU-BASED AWS INSTANCES
-> Working with graphics and 3D applications it is always important to get the best performance for the end user. We have conducted a performance comparison of GPU-Based Instances and nVidia Drivers on AWS to understand optimal configurations leveraging the popular Unigine Heaven performance benchmark. 
+> Working with graphics and 3D applications it is always important to get the best performance for the end user. We have conducted a performance comparison of GPU-Based Instances and nVidia Drivers on AWS to understand optimal configurations leveraging the popular Unigine Heaven performance benchmark.
 > [Blog entry][17]
+
+## AWS local zones
+
+> Netflix Empowers Remote Artistry with Low-Latency Workstations Using AWS Local Zones
+> Netflix deployed its visual effects studio closer to artists using AWS Local Zones, helping it achieve single-digit millisecond latency and keep its remote workstations running smoothly.
+> [AWS case study][18]
 
 ## Videos
 
@@ -90,7 +94,9 @@ aws --region=eu-central-1 ec2 describe-spot-price-history --instance-types g5.xl
 [8]: https://www.youtube.com/watch?v=xUwyBiMZbws
 [9]: https://www.youtube.com/watch?v=gE20QLY6gAI
 [10]: https://github.com/badjware/aws-cloud-gaming
+
 <!-- slightly different forks -->
+
 [11]: https://github.com/gusse/aws-cloud-gaming
 [12]: https://github.com/lachlanclulow/aws-cloud-gaming
 [13]: https://github.com/MostlyVet/aws-cloud-gaming
@@ -98,3 +104,4 @@ aws --region=eu-central-1 ec2 describe-spot-price-history --instance-types g5.xl
 [15]: https://github.com/brainstorm/aws-windows
 [16]: https://www.youtube.com/watch?v=aJ8MO6Sfvpo
 [17]: https://www.ni-sp.com/performance-comparison-of-gpu-based-instances-and-nvidia-drivers-on-aws/
+[18]: https://aws.amazon.com/de/solutions/case-studies/netflix-aws-local-zones-case-study/
